@@ -1,0 +1,44 @@
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.exe
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.deps.json
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.runtimeconfig.json
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.runtimeconfig.dev.json
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.pdb
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.Views.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.Views.pdb
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.csproj.AssemblyReference.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.AssemblyInfoInputs.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.AssemblyInfo.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.csproj.CoreCompileInputs.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.RazorAssemblyInfo.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.RazorAssemblyInfo.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\staticwebassets\Notas Estudiantes DigitalWare.StaticWebAssets.Manifest.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.TagHelpers.input.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.TagHelpers.output.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.RazorCoreGenerate.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.RazorTargetAssemblyInfo.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.RazorTargetAssemblyInfo.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.Views.pdb
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.pdb
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.genruntimeconfig.cache
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Notas Estudiantes DigitalWare.csproj.CopyComplete
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Ingresar.cshtml.g.cs
+D:\Repository\Notas Estudiantes DigitalWare\Notas Estudiantes DigitalWare\obj\Debug\netcoreapp3.1\Razor\Pages\Editar.cshtml.g.cs

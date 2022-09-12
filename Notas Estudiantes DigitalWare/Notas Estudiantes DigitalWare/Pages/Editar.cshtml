@@ -1,0 +1,52 @@
+﻿@page
+@model Notas_Estudiantes_DigitalWare.Pages.EditarModel
+@{
+}
+<br />
+
+<h2>Ingresar Nota</h2>
+
+<form method="POST">
+    <input type="hidden" name="id" value="@Model.NotaEdit.Id" />
+    <div class="row mb-3 ">
+        <label class="col-sm-3 col-form-label">Nombre</label>
+        <div class="col-sm-6">
+            <select name="nombres" id="nombres" onselect="@Model.NotaEdit.Nombre">
+               <option value="@Model.NotaEdit.Id_Estudiante">@Model.NotaEdit.Nombre</option>
+            </select>
+        </div>
+    </div>
+    <div class="row mb-3 ">
+        <label class="col-sm-3 col-form-label">Materia</label>
+        <div class="col-sm-6">
+            <select name="materias" id="materias">
+                <option value="@Model.NotaEdit.Id_Materia">@Model.NotaEdit.Materia</option>
+            </select>
+        </div>
+    </div>
+    <div class="row mb-3 ">
+        <label class="col-sm-3 col-form-label">Nota</label>
+        <div class="col-sm-1">
+            <input type="text" class="form-control" name="nota" value="@Model.NotaEdit.Nota" />
+        </div>
+    </div>
+    <div class="row mb-3 ">
+        <label class="col-sm-3 col-form-label">Periodo</label>
+        <div class="col-sm-6">
+            <select name="periodo" id="periodo" onselect="@Model.NotaEdit.Periodo">
+                <option value="1">Periodo 1</option>
+                <option value="2">Periodo 2</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-3 ">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Registrar</button>
+        </div>
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-outline-primary" href="/" role="button">Cancelar</button>
+        </div>
+    </div>
+
+</form>

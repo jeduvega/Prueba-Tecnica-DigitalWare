@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">CRUD Notas</h1>
+    <h2 >Lista de Estudiantes</h2>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id Nota</th>
+                <th>Nombre</th>
+                <th>Materia</th>
+                <th>Nota</th>
+                <th>Perido</th>
+                <th> <a class="btn btn-primary" href="/Ingresar">Ingresar Nota</a> </th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model.Notas)
+            {
+                <tr>
+                    <th>@item.Id</th>
+                    <th>@item.Nombre</th>
+                    <th>@item.Materia</th>
+                    <th>@item.Nota</th>
+                    <th>@item.Periodo</th>
+                    <th> <a class="btn btn-primary" href="/Editar?id=@item.Id">Editar</a> </th>
+                    <th>
+                        <form method="post" asp-route-id= "@item.Id" asp-page-handler="delete">
+                        <button class="btn btn-danger" >Eliminar</button>
+                        </form>
+                    </th>
+                       
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+</div>
